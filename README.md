@@ -8,8 +8,8 @@
 
 ## Tools
 + For testing API `OpenAPI` [added in code]
-+ MongoDB local or cloud
-+ Any Java IDE
++ `MongoDB` local or cloud
++ Any `Java IDE` to run the code
 
 ### Precheck
 + `Server Port` availability
